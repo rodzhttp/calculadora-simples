@@ -1,2 +1,1 @@
-# CalculadoraSimples
- 
+# Calculadora Simples
